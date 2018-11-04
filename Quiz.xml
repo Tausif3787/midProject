@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Quizes>
+
+    <quiz>
+        <title>Quiz 1</title>
+        <question>
+            <Name>Qtn 2?</Name>
+            <Option>Opt 2.1</Option>
+            <Option>Opt 2.2</Option>
+            <Answer>Opt 2.1</Answer>
+        </question>
+        <question>
+            <Name>Qtn 3?</Name>
+            <Option>Opt 3.1</Option>
+            <Option>Opt 3.2</Option>
+            <Answer>Opt 3.1</Answer>
+        </question>
+        <question>
+            <Name>Qtn 4?</Name>
+            <Option>Opt 4.1</Option>
+            <Option>Opt 4.2</Option>
+            <Answer>Opt 4.1</Answer>
+        </question>
+    <question>
+        <Name>what is capital of bd?</Name>
+        <Option>Dhaka</Option><Option>Uganda</Option>
+        <Answer>Dhaka</Answer></question>
+        <question><Name>what is capital of bd?
+        </Name><Option>Dhaka</Option>
+            <Option>Uganda</Option>
+            <Answer>Dhaka</Answer>
+        </question>
+    </quiz>
+    <quiz>
+        <title>Quiz 2</title>
+        <question>
+            <Name>Qtn 1?</Name>
+            <Option>Opt 1</Option>
+            <Option>Opt 2</Option>
+            <Answer>Opt 1</Answer>
+        </question>
+    </quiz>
+    <quiz><title>Quiz 3</title></quiz>
+    <quiz><title>Quiz 4</title></quiz>
+    <quiz>
+    <title>quiz 5</title>
+        <question><Name>what is capital of ind?</Name><Option>Dhaka</Option><Option>Uganda</Option><Answer>delli</Answer></question><question><Name>what is capital of ind?</Name><Option>Dhaka</Option><Option>Uganda</Option><Answer>delli</Answer></question></quiz></Quizes>
